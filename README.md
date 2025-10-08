@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Python</b>
-  - [Top10 S&P Weight](https://github.com/675rkk/StdDev/releases/tag/v0.0.0)
-  - [Housing Predictions (not finished)](https://github.com/675rkk/HousePricing_ML/releases/tag/v0.0.0)
 - <b>C#</b>
-  - [Chess Game (not finished)](https://github.com/675rkk/ChessGame/releases/tag/v0.3.0)
+  - [Chess Game (not finished) - Learning OOP concepts](https://github.com/675rkk/ChessGame/releases/tag/v0.3.0)
+- <b>Python</b>
+  - [Top10 S&P Weight - Learning python basics](https://github.com/675rkk/StdDev/releases/tag/v0.0.0)
+  - [Housing Predictions (not finished) - Learning ML concepts](https://github.com/675rkk/HousePricing_ML/releases/tag/v0.0.0)
 
 <h2>🤳 Connect with me:</h2>
 
