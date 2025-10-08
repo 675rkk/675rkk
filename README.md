@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ryan! <br/></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Title of what these projects cover</b>
   - [Name of project](https://www.simplilearn.com/top-cyber-security-projects-article)
