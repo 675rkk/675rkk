@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Title of what these projects cover</b>
-  - [Name of project](https://www.simplilearn.com/top-cyber-security-projects-article)
-- <b>Title of what these projects cover</b>
-  - [Name of project](https://www.simplilearn.com/top-cyber-security-projects-article)
-  - [Name of project](https://www.simplilearn.com/top-cyber-security-projects-article)
+- <b>Python</b>
+  - [Top10 S&P Weight](https://github.com/675rkk/StdDev/releases/tag/v0.0.0)
+  - [Housing Predictions (not finished)](https://github.com/675rkk/HousePricing_ML/releases/tag/v0.0.0)
+- <b>C#</b>
+  - [Chess Game (not finished)](https://github.com/675rkk/ChessGame/releases/tag/v0.3.0)
 
 <h2>🤳 Connect with me:</h2>
 
@@ -15,14 +15,9 @@
 [linkedin]: https://www.linkedin.com/in/ryan-kawaoka/
 Update LinkedIn
 
-<h2>🙋‍♂️ About Me</h2>
-<p>
-  About me statement
-</p>
-
 <h2>🧑‍💼 Professional Statement</h2>
 <p>
-I am passionate about information security, and dedicated to developing innovative solutions that help others and protect sensitive data. My professional goal is to contribute meaningfully toward an organization's mission using strategies that secure its assets, ensure trust, and comply with industry standards. I am committed to continuous learning and collaboration, with the aim of being a trusted partner in developing cybersecurity practices that make a difference for the good in the organization and people it serves.
+I am passionate about software engineering and information security. I am dedicated to developing innovative solutions that help others and protect sensitive data. My professional goal is to contribute meaningfully toward an organization's mission using strategies that improve productivity, secure its assets, and comply with industry standards. I am committed to continuous learning and collaboration, with the aim of being a trusted partner in developing software practices that make a difference for the good in the organization and people it serves.
 </p>
 
 <!--
