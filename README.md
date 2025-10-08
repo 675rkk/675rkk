@@ -13,7 +13,7 @@
 [<img align="left" alt="RyanKawaoka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/ryan-kawaoka/
-Update LinkedIn
+LinkedIn
 
 <h2>🧑‍💼 Professional Statement</h2>
 <p>
